@@ -1,3 +1,9 @@
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@zaidalit0072609/30-nites-of-code)  
+  ![@zaidalit0072609 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=zaidalit0072609)
+
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Owais Ali
 =================================================================================================================================
 
