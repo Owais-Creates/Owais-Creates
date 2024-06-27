@@ -12,7 +12,7 @@ Web Developer / Designer
 I am a developer from India , eager to learn and implement new technologies , and to create a impact in the real world.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPorfolio](http://https://fantastic-biscotti-cdec7d.netlify.app/](https://fantastic-biscotti-cdec7d.netlify.app/ )
+* 🖥️  See my portfolio at [MyPorfolio](https://fantastic-biscotti-cdec7d.netlify.app/  )
 * ✉️  You can contact me at [owaisali5371@gmail.com](mailto:owaisali5371@gmail.com)
 * 🧠  I'm learning React
 
